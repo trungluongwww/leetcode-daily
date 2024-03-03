@@ -38,5 +38,5 @@ func findLeastNumOfUniqueInts(arr []int, k int) int {
 }
 
 func main() {
-	fmt.Println(findLeastNumOfUniqueInts([]int{2, 2, 1, 5, 3, 3}, 3))
+	fmt.Println(fmt.Sprintf("%%s%"))
 }
